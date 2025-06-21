@@ -14,6 +14,10 @@ public class Test {
 		e1.setRollno(2);
 		e1.setName("xyz");
 		
+		Employee1 e2 = new Employee1();
+		e2.setRollno(2);
+		e2.setName("sss");
+		
 		
 	//create object of SessionFactory
 		
