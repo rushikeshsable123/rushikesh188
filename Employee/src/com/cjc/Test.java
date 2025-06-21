@@ -9,6 +9,11 @@ public class Test {
 		Employee1 e = new Employee1();
 		e.setRollno(1);
 		e.setName("abc");
+
+		Employee1 e1 = new Employee1();
+		e1.setRollno(2);
+		e1.setName("xyz");
+		
 		
 	//create object of SessionFactory
 		
